@@ -3,6 +3,12 @@ package com.rp.week1.assign1.currency;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/** 
+ * @author ravi31186
+ * Convert CAD to USD as per provided exchange rate
+ * This method will keep asking for correct value until user does not enter valid input.
+ */
+
 public class CADtoUSD {
 	
 	private Scanner sc;

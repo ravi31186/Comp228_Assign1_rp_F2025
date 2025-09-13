@@ -3,6 +3,12 @@ package com.rp.week1.assign1.grades;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/** 
+ * @author ravi31186
+ * This method will find Grade for numbers of courses user enters.
+ * This method will keep asking for correct value until user does not enter valid input.
+ */
+
 public class GradeCalculator {
 	
 	private Scanner sc;

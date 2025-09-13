@@ -3,6 +3,12 @@ package com.rp.week1.assign1.volume;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/** 
+ * @author ravi31186
+ * Convert Liters to Gallons as per provided value.
+ * This method will keep asking for correct value until user does not enter valid input.
+ */
+
 public class LitersToGallons {
 	
 	private Scanner sc;
